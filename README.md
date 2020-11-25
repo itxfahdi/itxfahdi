@@ -47,3 +47,49 @@
 
 <br />
 <br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://fahadkhalidyt.blogspot.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="itxfahdi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=itxfahdi&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://fahadkhalidyt.blogspot.com
+[course]: http://itxfahdi.000webhostapp.com
+[twitter]: https://twitter.com/itxfahdi
+[youtube]: https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw
+[instagram]: https://instagram.com/itxfahdi
+[linkedin]: https://linkedin.com/in/itxfahdi
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsb
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ
